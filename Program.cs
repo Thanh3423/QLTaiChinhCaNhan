@@ -1,4 +1,4 @@
-namespace DemoThao
+namespace MucTieu
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace DemoThao
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new frmDangNhap());
+            Application.Run(new Form1());
         }
     }
 }

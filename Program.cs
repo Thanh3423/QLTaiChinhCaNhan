@@ -1,4 +1,4 @@
-namespace QLTCCaNhan
+namespace QLVay
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace QLTCCaNhan
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new frmQLTCCaNhan());
+            Application.Run(new Form1());
         }
     }
 }
